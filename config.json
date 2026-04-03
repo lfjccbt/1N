@@ -3,23 +3,23 @@
   "correctMark": 1,
   "wrongMark": 0,
   "activeForForms": [
-    "MATHS",
-    "PHYSICS",
-    "CHEMISTRY"
+    "MATHS_A",
+    "BOTANY",
+    "PHYSICS"
   ],
   "subjects": [
     {
-      "name": "MATHS",
+      "name": "MATHS_A",
       "questions": 80,
       "numerical": 0
     },
     {
-      "name": "PHYSICS",
+      "name": "BOTANY",
       "questions": 40,
       "numerical": 0
     },
     {
-      "name": "CHEMISTRY",
+      "name": "PHYSICS",
       "questions": 40,
       "numerical": 0
     }
