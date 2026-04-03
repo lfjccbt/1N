@@ -4,7 +4,7 @@
   "wrongMark": 0,
   "activeForForms": [
     "MATHS",
-    "PHYSICS",
+    "BOTANY",
     "CHEMISTRY"
   ],
   "subjects": [
@@ -14,7 +14,7 @@
       "numerical": 0
     },
     {
-      "name": "PHYSICS",
+      "name": "BOTANY",
       "questions": 40,
       "numerical": 0
     },
